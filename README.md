@@ -1,1 +1,1 @@
-# PotentiometerValueViewLCD
+# ArduinoPotentiometerValueViewLCD
